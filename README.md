@@ -1,2 +1,5 @@
-# Inventory_management
-inventory management using python and JSON
+# inventory_management_using_JSON
+Dictionary
+Inventory management using TXT
+Inventory Management is a basic functionality for adding and managing 
+in this various functionalities like sales report and information checking is added
